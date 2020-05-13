@@ -22,5 +22,6 @@ graph LR
     id1(Reconsider Your Choice)
     id2(Dive Right In)
     
-    id0 --> id1 --> id2    
+    id0-->id1
+    id1-->id2
 ```
