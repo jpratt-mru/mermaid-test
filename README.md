@@ -15,3 +15,8 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+
+```mermaid
+graph LR
+    Start --> id1[Reconsider Your Choice] --> id2[Dive Right In]
+```
