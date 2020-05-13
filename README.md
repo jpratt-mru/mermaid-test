@@ -18,5 +18,9 @@ sequenceDiagram
 
 ```mermaid
 graph LR
-    Start --> id1[Reconsider Your Choice] --> id2[Dive Right In]
+    id0(Start)
+    id1(Reconsider Your Choice)
+    id2(Dive Right In)
+    
+    id0 --> id1 --> id2    
 ```
