@@ -20,7 +20,7 @@ sequenceDiagram
 graph LR
     id0(Start)
     id1(Reconsider Your Choice)
-    id2(Dive Right In)
+    id2(Dive Right In, Buddy)
     
     id0-->id1
     id1-->id2
