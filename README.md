@@ -16,6 +16,8 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
+![~mermaid diagram 2~](output/README-md-2.png)
+
 ```mermaid
 graph LR
     id0(Start)
