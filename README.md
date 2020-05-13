@@ -2,6 +2,9 @@
 
 ![~mermaid diagram 1~](output/README-md-1.png)
 
+<details>
+    <summary>codeblock</summary>
+    
 ```mermaid
 sequenceDiagram
     participant Alice
@@ -15,15 +18,21 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+    
+</details>
 
 ![~mermaid diagram 2~](output/README-md-2.png)
 
-```mermaid
-graph LR
-    id0(Start)
-    id1(Reconsider Your Choice)
-    id2(Dive Right In, Buddy)
+<details>
+    <summary>codeblock</summary>
     
-    id0-->id1
-    id1-->id2
-```
+    ```mermaid
+    graph LR
+        id0(Start)
+        id1(Reconsider Your Choice)
+        id2(Dive Right In, Buddy)
+
+        id0-->id1
+        id1-->id2
+    ```
+</details>
