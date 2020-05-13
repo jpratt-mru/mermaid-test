@@ -1,5 +1,7 @@
 # mermaid-test
 
+![~mermaid diagram 1~](output/README-md-1.png)
+
 ```mermaid
 sequenceDiagram
     participant Alice
