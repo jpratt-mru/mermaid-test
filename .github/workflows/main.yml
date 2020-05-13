@@ -26,7 +26,7 @@ jobs:
           files: ${{ steps.getfile.outputs.files }}
           output: "output"
         env:
-          HIDE_CODEBLOCKS: 1
+          HIDE_CODEBLOCKS: 0
           ABSOLUTE_IMAGE_LINKS: 1
 
       - name: show changes
